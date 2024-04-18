@@ -51,7 +51,7 @@ Join one of the most prestigious competitions in the AI landscape with a prize p
 - **Total Prize Pool:** $1,000,000
 - **Number of Winners:** 20
 - **Award Ceremony:** 16th Dec 2024, details to be announced.
-
+- **Judges:** Our judging panel consists of prominent AI CEOs, VCs, Academics and Developers. See [https://aiagentschallenge.com/judges-and-founding-partner](https://aiagentschallenge.com/judges-and-founding-partner)
 ---
 
 ## 🤔 FAQ
