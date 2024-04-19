@@ -11,7 +11,7 @@ Visit the [https://aiagentschallenge.com](https://aiagentschallenge.com)
 ---
 
 ### 🚀 Challenge Overview
-Join one of the most prestigious competitions in the AI landscape with a prize pool of **$1 million** in grants. The AI Agents Global Challenge invites developers, innovators, and thinkers from around the world to develop solutions that push the boundaries of AI capabilities. Whether you are interested in healthcare, cybersecurity, or any other domain, this challenge is your platform to showcase your skills and innovate.
+Join one of the most prestigious competitions in the AI landscape with a prize pool of **$1 million** in grants. The AI Agents Global Challenge invites developers, innovators, and thinkers from around the world to develop solutions that push the boundaries of AI capabilities. Whether you are interested in healthcare, cybersecurity, marketing, education, games, or any other domain, this challenge is your platform to showcase your skills and innovate.
 
 
 ---
